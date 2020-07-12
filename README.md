@@ -8,7 +8,6 @@ This App is in beta version.
 ![GitHub Logo](/appScreenShots/app1.jpeg)
 
 ![GitHub Logo](/appScreenShots/2.jpeg)
-Format: ![Alt Text](url)
 ![GitHub Logo](/appScreenShots/3.jpeg)
 ![GitHub Logo](/appScreenShots/4.jpeg)
 ![GitHub Logo](/appScreenShots/app5.jpeg)
